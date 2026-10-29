@@ -1,0 +1,55 @@
+body {
+    background-color: rgba(198, 152, 52, 0.232);
+    text-align: center;
+}
+
+P {
+    margin-left: 20PX;
+    margin-right: 20PX;
+    padding: 10PX;
+}
+
+h1 {
+    color: rgb(146, 117, 14);
+    text-shadow: 3PX 5PX 5PX;
+    box-shadow: 5PX 5PX 7PX 2PX rgba(102, 77, 23, 0.942);
+    border-radius: 20PX;
+}
+
+h2 {
+    color: rgba(195, 126, 36, 0.993);
+    text-align: RIGHT;
+}
+
+h3 {
+    color: black;
+    text-align: RIGHT;
+}
+
+P {
+    color: rgba(129, 75, 6, 0.993);
+    text-align: RIGHT;
+}
+
+img {
+    margin-top: 30PX;
+    width: 250PX;
+    border: 10PX;
+    border-radius: 20PX;
+}
+
+img {
+    margin-bottom: 30PX;
+}
+
+
+P {
+    margin-top: 10PX;
+}
+
+img {
+    width: 400PX;
+    border: 10PX rgba(189, 142, 39, 0.747) double;
+    border-radius: 50PX;
+    box-shadow: 10PX 5PX 7PX 1PX rgba(102, 77, 23, 0.942);
+}
